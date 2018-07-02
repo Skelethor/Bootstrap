@@ -1,0 +1,31 @@
+.container {
+    width: 45em;
+}
+
+.Grey, .Black, .Yellow, .Orange {
+    height:3.75em;
+    border: 1px solid white;
+}
+
+.Grey {
+    background-color: #333;
+}
+
+.Black {
+    background-color: #000;
+}
+
+.Yellow {
+    background-color: #FFCC00;
+}
+
+.Orange {
+    background-color: #FF7F2A;
+}
+
+h1 {
+    font-size : 75px;
+    text-transform : uppercase;
+    text-align : center;
+    padding-bottom : 25px;
+}
